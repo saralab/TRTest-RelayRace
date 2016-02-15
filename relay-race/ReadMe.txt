@@ -1,0 +1,2 @@
+- To compile and install the jar , please run mvn install.
+- Run the RaceExecutor class that initiates a Race with Team and Runners.
